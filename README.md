@@ -12,8 +12,4 @@ The contracts are written in Solidity version 0.8.9 and are compatible to run on
 
 ### External Contracts Used:
 
- [Gnosis Safe Contracts](https://github.com/safe-global/safe-contracts) and [Allowance Module](https://goerli.etherscan.io/address/0xCFbFaC74C26F8647cBDb8c5caf80BB5b32E43134#code)
-
-
-### For More Information Please Visit
-[Tech Documentation](https://parcelhq.notion.site/Parcel-Payroll-SC-Documentation-539f9a1a75a541a79b8f5809b66b62e1)
+[Gnosis Safe Contracts](https://github.com/safe-global/safe-contracts) and [Allowance Module](https://goerli.etherscan.io/address/0xCFbFaC74C26F8647cBDb8c5caf80BB5b32E43134#code)
