@@ -13,3 +13,8 @@ The contracts are written in Solidity version 0.8.9 and are compatible to run on
 ### External Contracts Used:
 
 [Gnosis Safe Contracts](https://github.com/safe-global/safe-contracts) and [Allowance Module](https://goerli.etherscan.io/address/0xCFbFaC74C26F8647cBDb8c5caf80BB5b32E43134#code)
+
+### Audit Reports
+
+- [Peckshield](docs/PeckShield-Audit-Report-ParcelPayroll-v1.0.pdf)
+- [Cantina Security](docs/Cantinasec_Audit_ParcelPayroll.pdf)
