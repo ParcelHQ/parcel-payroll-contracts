@@ -17,4 +17,4 @@ The contracts are written in Solidity version 0.8.9 and are compatible to run on
 ### Audit Reports
 
 - [Peckshield](docs/PeckShield-Audit-Report-ParcelPayroll-v1.0.pdf)
-- [Cantina Security](docs/Cantinasec_Audit_ParcelPayroll.pdf)
+- [Cantina Security](docs/Parcel-Cantina.pdf)
